@@ -1,0 +1,6 @@
+# Ignore Word documents
+*.docx
+*.doc
+
+# Ignore project instructions
+GEMINI.md
